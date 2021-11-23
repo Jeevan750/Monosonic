@@ -24,4 +24,6 @@ Right click on the monosonic.cmd file and create a shortcut to the desktop.
 run the monosonic.cmd file.
 
 # Working
-This software uses OPEN CV function to capture your facail image using your webcam and uses DEEP FACE to scan your emotion, DeepFace is a deep learning facial recognition system created by a research group at Facebook. It identifies human faces in digital images. The program employs a nine-layer neural network with over 120 million connection weights and was trained on four million images uploaded by Facebook users. 
+This software uses OPEN CV function to capture your facail image using your webcam and uses DEEP FACE to scan your emotion and it passes the results to the player function and playes the song depening on the results of the OPEN CV function and enjoy the songs. you can rerun the program whenever required
+
+# THANK YOU
